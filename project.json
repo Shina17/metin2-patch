@@ -78,13 +78,13 @@
         },
         {
             "Path": "Metin2Distribute.exe",
-            "MD5": "023a8f63920aee2837ffaeaf53336ab4",
+            "MD5": "e642fa51e78e2474d054fcf6e5e1797b",
             "Size": 2911232
         },
         {
             "Path": "Metin2Release.exe",
-            "MD5": "acfd3210b5b8fda313ed6ad03b7c5174",
-            "Size": 3030016
+            "MD5": "36c47f52d162d15f48929904546031c0",
+            "Size": 3030528
         },
         {
             "Path": "MSS32.DLL",
