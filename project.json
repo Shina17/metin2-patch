@@ -33,13 +33,13 @@
         },
         {
             "Path": "pack/root.bin",
-            "MD5": "be260fb52a6fcf9bcc38534270015c44",
+            "MD5": "7094a4a750511c3694c95e155d354f85",
             "Size": 2652160
         },
         {
             "Path": "pack/root.dat",
-            "MD5": "5ad4181b14006e0e96469ddb56f1b190",
-            "Size": 13836
+            "MD5": "2f0e76f1e6057414bcbc2ee0564d09cb",
+            "Size": 13804
         },
         {
             "Path": "pack/textureset.bin",
@@ -58,8 +58,8 @@
         },
         {
             "Path": "client_x86.dll",
-            "MD5": "8c152e48db71d079b2417825fc1cb408",
-            "Size": 105984
+            "MD5": "b24c3d0855d385285921c392587a6022",
+            "Size": 107520
         },
         {
             "Path": "devil.dll",
