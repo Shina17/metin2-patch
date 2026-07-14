@@ -58,7 +58,7 @@
         },
         {
             "Path": "client_x86.dll",
-            "MD5": "76d02924f2e2189d41cda6dd01207082",
+            "MD5": "fe95d6a964cde9b6e2a71a66431e23b3",
             "Size": 137216
         },
         {
@@ -78,12 +78,12 @@
         },
         {
             "Path": "Metin2Distribute.exe",
-            "MD5": "bb7e5675e27221923d611d865605c49d",
+            "MD5": "7d01314d3c1241d9bd800f6e1898230e",
             "Size": 2911232
         },
         {
             "Path": "Metin2Release.exe",
-            "MD5": "527748ad630e8ee7d97ec8d7b732f43b",
+            "MD5": "697b2d00b709f6a99da1201931cb06f0",
             "Size": 3030528
         },
         {
