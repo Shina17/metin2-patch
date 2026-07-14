@@ -1,0 +1,105 @@
+{
+    "AnnouncementsUrl": "https://shina17.github.io/metin2-patch/news.html",
+    "Files": [
+        {
+            "Path": "pack/icon.bin",
+            "MD5": "c97bbec08c0356babab3bd1562e8742d",
+            "Size": 6750976
+        },
+        {
+            "Path": "pack/icon.dat",
+            "MD5": "ec33ea3b8fd99448316bfa3b0534a65e",
+            "Size": 64644
+        },
+        {
+            "Path": "pack/locale.bin",
+            "MD5": "d4f9b2bd6c7d0bcba0ebbdcc095df1da",
+            "Size": 4481536
+        },
+        {
+            "Path": "pack/locale.dat",
+            "MD5": "319bc329285a55f53647617f69b29528",
+            "Size": 6700
+        },
+        {
+            "Path": "pack/property.bin",
+            "MD5": "1c7c70ddfbfd5e2f243ed42f26ee5feb",
+            "Size": 284672
+        },
+        {
+            "Path": "pack/property.dat",
+            "MD5": "9fe76bc87051304ec745275412f337f0",
+            "Size": 30924
+        },
+        {
+            "Path": "pack/root.bin",
+            "MD5": "be260fb52a6fcf9bcc38534270015c44",
+            "Size": 2652160
+        },
+        {
+            "Path": "pack/root.dat",
+            "MD5": "5ad4181b14006e0e96469ddb56f1b190",
+            "Size": 13836
+        },
+        {
+            "Path": "pack/textureset.bin",
+            "MD5": "0edd0f73c8170a21b7a808e88ae6cadf",
+            "Size": 57088
+        },
+        {
+            "Path": "pack/textureset.dat",
+            "MD5": "4db30d43dcc3e9423fb911123fe8ff5b",
+            "Size": 3348
+        },
+        {
+            "Path": "ayarlar.exe",
+            "MD5": "c49858aa22beb2f9a3e2569a278ac07a",
+            "Size": 111104
+        },
+        {
+            "Path": "client_x86.dll",
+            "MD5": "8c152e48db71d079b2417825fc1cb408",
+            "Size": 105984
+        },
+        {
+            "Path": "devil.dll",
+            "MD5": "8df4d4324e5755f1a0567db3c5be4c58",
+            "Size": 269312
+        },
+        {
+            "Path": "granny2.dll",
+            "MD5": "1d31264a8be75ebb56d781bf99ffd839",
+            "Size": 505344
+        },
+        {
+            "Path": "granny2_backup.dll",
+            "MD5": "6f403e1359bbc6b5f23b2def240e4c3c",
+            "Size": 672256
+        },
+        {
+            "Path": "Metin2Distribute.exe",
+            "MD5": "be06c9930fa8afb350db650a093d48cd",
+            "Size": 2910720
+        },
+        {
+            "Path": "Metin2Release.exe",
+            "MD5": "8b59b2f94b7bdc15adfbe17cb00b401b",
+            "Size": 3030016
+        },
+        {
+            "Path": "MSS32.DLL",
+            "MD5": "6400e224b8b44ece59a992e6d8233719",
+            "Size": 349696
+        },
+        {
+            "Path": "python27.dll",
+            "MD5": "a35fef665eec18e0bf4195359a106261",
+            "Size": 845868
+        },
+        {
+            "Path": "SpeedTreeRT.dll",
+            "MD5": "1ac3d612389fa679f5ca3c6bab855145",
+            "Size": 1806336
+        }
+    ]
+}
