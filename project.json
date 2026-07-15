@@ -92,6 +92,11 @@
             "Size": 349696
         },
         {
+            "Path": "msvcp140.dll",
+            "MD5": "cbf2f368dae5e7dcf338c6f63533a2a9",
+            "Size": 447616
+        },
+        {
             "Path": "python27.dll",
             "MD5": "a35fef665eec18e0bf4195359a106261",
             "Size": 845868
@@ -105,6 +110,11 @@
             "Path": "test_dll_exports.exe",
             "MD5": "26846988fb9a0f2e72d0a7a81c1e55b7",
             "Size": 205824
+        },
+        {
+            "Path": "vcruntime140.dll",
+            "MD5": "4bea1ba68690620b78c7502ac968f0ba",
+            "Size": 91216
         }
     ]
 }
