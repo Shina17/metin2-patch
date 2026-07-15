@@ -568,13 +568,13 @@
         },
         {
             "Path": "pack/locale.bin",
-            "MD5": "de6eecb2f304fe2fe13dcfd3bc760b08",
-            "Size": 4512512
+            "MD5": "2401de084e06dd73a4352c58886bbdc7",
+            "Size": 4497152
         },
         {
             "Path": "pack/locale.dat",
-            "MD5": "14edabcb4556a6c2ec751c15eb654ea3",
-            "Size": 6836
+            "MD5": "1fb98ba622ae07c3836f99e7c010d4cb",
+            "Size": 6708
         },
         {
             "Path": "pack/maps.bin",
@@ -608,13 +608,13 @@
         },
         {
             "Path": "pack/patch_arboreal.bin",
-            "MD5": "8592cb4e42df09d032034b4997653d76",
-            "Size": 58159616
+            "MD5": "800556a3855455bd2a5d45c4554409a1",
+            "Size": 58174976
         },
         {
             "Path": "pack/patch_arboreal.dat",
-            "MD5": "e011ab90e1e247a50291ca9018d27e31",
-            "Size": 52892
+            "MD5": "83bf0ef1bec71f364c8848dc96292fd7",
+            "Size": 52884
         },
         {
             "Path": "pack/pc.bin",
