@@ -23,13 +23,13 @@
         },
         {
             "Path": "pack/patch_arboreal.bin",
-            "MD5": "b5031e39ec32896890d7abe2b69b865a",
+            "MD5": "92d00ac82626129b395ac1839825baa7",
             "Size": 42609152
         },
         {
             "Path": "pack/patch_arboreal.dat",
-            "MD5": "58a3aa0ae63a94f8399e4eaa0485a867",
-            "Size": 34100
+            "MD5": "766dee7e515f3a0147cf7f78eec39adf",
+            "Size": 34676
         },
         {
             "Path": "pack/property.bin",
