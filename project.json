@@ -23,13 +23,18 @@
         },
         {
             "Path": "pack/patch_arboreal.bin",
-            "MD5": "a7821eb3e20717ddb458d1c5b5d8c8ca",
-            "Size": 57413120
+            "MD5": "8592cb4e42df09d032034b4997653d76",
+            "Size": 58159616
+        },
+        {
+            "Path": "pack/patch_arboreal.bin.tmp",
+            "MD5": "f0af276eea5217fd08eccdc6e9d4584e",
+            "Size": 30866192
         },
         {
             "Path": "pack/patch_arboreal.dat",
-            "MD5": "66b7ea22e18149651885db6a59717411",
-            "Size": 51476
+            "MD5": "e011ab90e1e247a50291ca9018d27e31",
+            "Size": 52892
         },
         {
             "Path": "pack/property.bin",
@@ -43,13 +48,13 @@
         },
         {
             "Path": "pack/root.bin",
-            "MD5": "2147c51114fa7e03db3bad983a85ed81",
+            "MD5": "aa48f24c274449b4e0f62c842981c059",
             "Size": 2653440
         },
         {
             "Path": "pack/root.dat",
-            "MD5": "caa535d30c6a2b5c6e4bdfb7f33174b9",
-            "Size": 14348
+            "MD5": "f2cd4c8e4949cb68679fd4e06eb0bdd1",
+            "Size": 13844
         },
         {
             "Path": "pack/textureset.bin",
