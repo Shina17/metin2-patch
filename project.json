@@ -608,13 +608,13 @@
         },
         {
             "Path": "pack/patch_arboreal.bin",
-            "MD5": "800556a3855455bd2a5d45c4554409a1",
-            "Size": 58174976
+            "MD5": "e75a11d7ed5ee952a0a07d34733a0d06",
+            "Size": 63427584
         },
         {
             "Path": "pack/patch_arboreal.dat",
-            "MD5": "83bf0ef1bec71f364c8848dc96292fd7",
-            "Size": 52884
+            "MD5": "4b18ef2de5b224364ecfc8ddafafef57",
+            "Size": 59604
         },
         {
             "Path": "pack/pc.bin",
@@ -720,6 +720,11 @@
             "Path": "screenshot/0715_095927.jpg",
             "MD5": "442f73bc3675f61102ed13c41051d19e",
             "Size": 543869
+        },
+        {
+            "Path": "screenshot/0715_203943.jpg",
+            "MD5": "9e5a407a9bf429649fc510ad9059f0ae",
+            "Size": 730237
         },
         {
             "Path": "upload/1.jpg",
