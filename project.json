@@ -578,13 +578,13 @@
         },
         {
             "Path": "pack/maps.bin",
-            "MD5": "040dfa22a883785668fb98481fd4a061",
-            "Size": 33578240
+            "MD5": "0a88a5838d5592ea57cb81e4474d0a5c",
+            "Size": 67834368
         },
         {
             "Path": "pack/maps.dat",
-            "MD5": "49875a77db2603f9b2fc5d95aff2cec1",
-            "Size": 160772
+            "MD5": "2337caa7a38572ce2140f8e4b249cfb1",
+            "Size": 307460
         },
         {
             "Path": "pack/monster.bin",
