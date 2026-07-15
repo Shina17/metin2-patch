@@ -13,13 +13,23 @@
         },
         {
             "Path": "pack/locale.bin",
-            "MD5": "d4f9b2bd6c7d0bcba0ebbdcc095df1da",
-            "Size": 4481536
+            "MD5": "1eb0578d320406ff46f72326f47a02fb",
+            "Size": 4492032
         },
         {
             "Path": "pack/locale.dat",
-            "MD5": "319bc329285a55f53647617f69b29528",
-            "Size": 6700
+            "MD5": "4349eb633084a7f45498fcc2ffbaf6e5",
+            "Size": 6708
+        },
+        {
+            "Path": "pack/patch_arboreal.bin",
+            "MD5": "4e1bb6d3773ffa9284cc72a9fb955640",
+            "Size": 42609152
+        },
+        {
+            "Path": "pack/patch_arboreal.dat",
+            "MD5": "913249cc59816e1ef4eb3970c296b12b",
+            "Size": 36420
         },
         {
             "Path": "pack/property.bin",
@@ -33,13 +43,13 @@
         },
         {
             "Path": "pack/root.bin",
-            "MD5": "be1cfe3978432f44972e6fe50f0586d6",
-            "Size": 2652160
+            "MD5": "b4f36e29c5aabeb1b4e122cee41bfb97",
+            "Size": 2653440
         },
         {
             "Path": "pack/root.dat",
-            "MD5": "587bbba7fce33716ee0061c55133f076",
-            "Size": 13796
+            "MD5": "0c9fdb38b1378dc12dbd250833bf6b2d",
+            "Size": 13836
         },
         {
             "Path": "pack/textureset.bin",
@@ -78,13 +88,13 @@
         },
         {
             "Path": "Metin2Distribute.exe",
-            "MD5": "8887183c652c1c68fcccddb3dd027ec9",
+            "MD5": "70b312b2f1d86e2eb82d3cf713304108",
             "Size": 2910208
         },
         {
             "Path": "Metin2Release.exe",
-            "MD5": "d3fc95ee3e160aedeab3c7d52ffd9e27",
-            "Size": 3028992
+            "MD5": "a3cc3251db1fab10d4668e798cce732c",
+            "Size": 3029504
         },
         {
             "Path": "MSS32.DLL",
