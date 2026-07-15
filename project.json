@@ -13,33 +13,33 @@
         },
         {
             "Path": "pack/locale.bin",
-            "MD5": "1eb0578d320406ff46f72326f47a02fb",
-            "Size": 4492032
+            "MD5": "b4bf79a919a4ec6e31c14b68eb74a5af",
+            "Size": 4496896
         },
         {
             "Path": "pack/locale.dat",
-            "MD5": "4349eb633084a7f45498fcc2ffbaf6e5",
-            "Size": 6708
+            "MD5": "11cb57985fda31c88526145a75944636",
+            "Size": 6716
         },
         {
             "Path": "pack/patch_arboreal.bin",
-            "MD5": "5725c1cb4d81abe5804ecbcc298ac2d7",
-            "Size": 42950656
+            "MD5": "a7821eb3e20717ddb458d1c5b5d8c8ca",
+            "Size": 57413120
         },
         {
             "Path": "pack/patch_arboreal.dat",
-            "MD5": "113da6265b993e89f9a76ad854063297",
-            "Size": 34684
+            "MD5": "66b7ea22e18149651885db6a59717411",
+            "Size": 51476
         },
         {
             "Path": "pack/property.bin",
-            "MD5": "927fcdeb2d1a97bd5028944194007c99",
-            "Size": 328192
+            "MD5": "91ab136bf19e6c1e8ef443fcbd8e5c28",
+            "Size": 15114752
         },
         {
             "Path": "pack/property.dat",
-            "MD5": "2375faf5bcdb9bee065b6acea0ec1c56",
-            "Size": 35548
+            "MD5": "8f2b770b2f05800b9350076f64ff6522",
+            "Size": 329396
         },
         {
             "Path": "pack/root.bin",
