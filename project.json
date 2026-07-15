@@ -568,13 +568,13 @@
         },
         {
             "Path": "pack/locale.bin",
-            "MD5": "2401de084e06dd73a4352c58886bbdc7",
+            "MD5": "3947847f6eebc29ab2b5ecf2c97b9709",
             "Size": 4497152
         },
         {
             "Path": "pack/locale.dat",
-            "MD5": "1fb98ba622ae07c3836f99e7c010d4cb",
-            "Size": 6708
+            "MD5": "bd57f266c8b01072d6f3a606e36a6dce",
+            "Size": 6700
         },
         {
             "Path": "pack/maps.bin",
