@@ -78,12 +78,12 @@
         },
         {
             "Path": "Metin2Distribute.exe",
-            "MD5": "1ae67c9d7289c1d29a3db95d98871afc",
+            "MD5": "c9c4df585699620866998662049ae53b",
             "Size": 2911744
         },
         {
             "Path": "Metin2Release.exe",
-            "MD5": "daa66476b2d1e179fdb216de1ed44ca1",
+            "MD5": "affed53f2838d188d3749b8ca2f82aa2",
             "Size": 3031040
         },
         {
@@ -100,6 +100,11 @@
             "Path": "SpeedTreeRT.dll",
             "MD5": "1ac3d612389fa679f5ca3c6bab855145",
             "Size": 1806336
+        },
+        {
+            "Path": "test_dll_exports.exe",
+            "MD5": "26846988fb9a0f2e72d0a7a81c1e55b7",
+            "Size": 205824
         }
     ]
 }
