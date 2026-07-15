@@ -33,13 +33,13 @@
         },
         {
             "Path": "pack/property.bin",
-            "MD5": "1c7c70ddfbfd5e2f243ed42f26ee5feb",
-            "Size": 284672
+            "MD5": "510f593892009837abc3e71201299326",
+            "Size": 324608
         },
         {
             "Path": "pack/property.dat",
-            "MD5": "9fe76bc87051304ec745275412f337f0",
-            "Size": 30924
+            "MD5": "fdc8c6e80d436c236ad33a74f3fbf70d",
+            "Size": 35228
         },
         {
             "Path": "pack/root.bin",
