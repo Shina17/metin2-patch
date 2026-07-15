@@ -43,13 +43,13 @@
         },
         {
             "Path": "pack/root.bin",
-            "MD5": "64a6e691200477aad35aa4b96079d5fd",
+            "MD5": "734189489e8e84a17cb07b6e0fc77896",
             "Size": 2653440
         },
         {
             "Path": "pack/root.dat",
-            "MD5": "8577338c76e851e5208c83e1c4e90949",
-            "Size": 13812
+            "MD5": "0fd8be229e90a239b15fc4c7daed105e",
+            "Size": 13788
         },
         {
             "Path": "pack/textureset.bin",
